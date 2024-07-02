@@ -11,7 +11,7 @@ Confira minha API de Presença por Reconhecimento Facial nos repositórios fixad
 </a>
 </div>
 
-## Contato 📞
+## Contato. 📞
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-nome)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paiva-901662299/)
 
