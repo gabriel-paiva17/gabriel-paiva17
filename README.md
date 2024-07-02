@@ -1,6 +1,6 @@
 ## Olá! Sou Gabriel Paiva. 👋
 
-### Confira minha API de Presença por Reconhecimento Facial nos repositórios fixados.
+Confira minha API de Presença por Reconhecimento Facial nos repositórios fixados.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
